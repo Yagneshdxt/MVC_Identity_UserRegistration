@@ -1,0 +1,10 @@
+*.zip
+*.vs
+bin
+obj
+*.txt
+aspnet_client
+App/App_Data
+App/UploadImages
+db_App/*.dbmdl
+Wierframe/~$*
